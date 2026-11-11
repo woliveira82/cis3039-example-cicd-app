@@ -4,6 +4,6 @@
   <RouterView />
 </template>
 
-<style scoped>
+<style scoped
 /* basic app container styling can go here if needed */
 </style>
